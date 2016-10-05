@@ -1,0 +1,64 @@
+.slide {
+    background: url(imagem/slide.png);
+}
+
+.texto {
+    font-family: Montserrat;
+}
+.menu {
+   background: url(imagem/menu.png);
+    }
+
+.botao {
+    border-color: #000000;
+    border-width: 3px;
+    }
+
+    .icones {
+        background: url(imagem/icones.png);
+    }
+
+
+    .profile {
+        background: url(imagem/Profile.png);
+        
+    }
+    .continuelendo {
+        background: url(imagem/continuelendo.png);
+    }
+    
+    .fatos {
+        background: url(imagem/fatos.png);
+    }
+    
+    .comentarios {
+        background: url(imagem/comentarios.png);
+    
+    }
+
+    
+    .footer {
+        background: url(imagem/footer.png);
+    }
+    
+    .sobre {
+        background: url(imagem/sobre.png);
+    }
+    
+#menu ul li { display:inline }
+	padding:0px;
+	margin:0px;
+
+/*visual do link*/
+background-color:#EDEDED;
+color: #333;	
+text-decoration: none;
+border-bottom:3px solid #EDEDED
+list-style:none;
+}
+
+#menu ul li a:hover {
+	background-color:#D6D6D6;
+	color: #6D6D6D;
+	border-bottom:3px solid #EA0000;
+}
